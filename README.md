@@ -1,2 +1,4 @@
 # selPractice
-Selenium Practice framwork
+Selenium Practice framework
+<br>
+framework practice and different testCases Scenarios 
